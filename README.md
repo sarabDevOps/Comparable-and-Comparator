@@ -45,4 +45,4 @@ Now, type ' java Runner
 [sarabDevOps](https://github.com/sarabDevOps)
 
 ## License
-This project is licensed under the MIT License - see the[LICENSE.md](https://github.com/sarabDevOps/Comparable-and-Comparator/blob/main/LICENSE) for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/sarabDevOps/Comparable-and-Comparator/blob/main/LICENSE)  for details.
