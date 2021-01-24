@@ -10,3 +10,12 @@ The comparable interface has a method compareTo(Object a ) | The comparator has 
 Collection.sort(List) method can be used to sort the collection of Comparable type objects | Collection.sort(List, Comparator) method can be used to sort the collection of Comparator type objects
 Comparable provides single sorting sequence.|The comparator provides a multiple sorting sequence.
 Comparable interface belongs to java.lang package.|Comparator interface belongs to java.util package.
+
+## Steps will guide you how to run it 
+
+### Dependencies
+You hava to have java installed to your local machine , if you dont have java here is the steps how to dowmload it.
+Navigate to the Java SE Downloads page. [Click Me]https://www.oracle.com/ie/java/technologies/javase/javase-jdk8-downloads.html
+Choose the JDK Download:
+Agree to terms and download the appropriate version. Not sure which version of Windows you are running?
+Open the .exe file and run the installation accepting all defaults.
