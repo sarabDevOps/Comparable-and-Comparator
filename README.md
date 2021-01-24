@@ -35,7 +35,8 @@ You hava to have java installed to your local machine , if you dont have java he
 open the command promt cd to where your project is saved 
 once you are in the folder you can use ls or dir to see files
 then you can compile all together using this command (javac *.java)
-Now, type ' java Runner 
+Now, type ' java Runner '
+You will be able to see the result printed on the window.
 
 ```
 
