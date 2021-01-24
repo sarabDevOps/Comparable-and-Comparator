@@ -15,7 +15,7 @@ Comparable interface belongs to java.lang package.|Comparator interface belongs 
 
 ### Dependencies
 You hava to have java installed to your local machine , if you dont have java here is the steps how to dowmload it.
-Navigate to the Java SE Downloads page. [Click Me]https://www.oracle.com/ie/java/technologies/javase/javase-jdk8-downloads.html
-Choose the JDK Download:
-Agree to terms and download the appropriate version. Not sure which version of Windows you are running?
-Open the .exe file and run the installation accepting all defaults.
+1. Navigate to the Java SE Downloads page.[Click Me](https://www.oracle.com/ie/java/technologies/javase/javase-jdk8-downloads.html)
+2. Choose the JDK Download:
+3. Agree to terms and download the appropriate version. Not sure which version of Windows you are running?
+4. Open the .exe file and run the installation accepting all defaults.
