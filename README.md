@@ -8,3 +8,5 @@ Comparable | Comparator
 ------------ | -------------
 The comparable interface has a method compareTo(Object a ) | The comparator has a method compare(Object o1, Object O2) 
 Collection.sort(List) method can be used to sort the collection of Comparable type objects | Collection.sort(List, Comparator) method can be used to sort the collection of Comparator type objects
+Comparable provides single sorting sequence.|The comparator provides a multiple sorting sequence.
+Comparable interface belongs to java.lang package.|Comparator interface belongs to java.util package.
