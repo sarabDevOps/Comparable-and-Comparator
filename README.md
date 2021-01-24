@@ -7,4 +7,4 @@ Comparable and comparator both are an interface that can be used to sort the ele
 Comparable | Comparator
 ------------ | -------------
 The comparable interface has a method compareTo(Object a ) | The comparator has a method compare(Object o1, Object O2) 
-Content in the first column | Content in the second column
+Collection.sort(List) method can be used to sort the collection of Comparable type objects | Collection.sort(List, Comparator) method can be used to sort the collection of Comparator type objects
